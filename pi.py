@@ -4,6 +4,7 @@ x = random.randrange(0,1)
 def pi(c, d):
     pi = c//d
     return pi
+def matriz():
+    pass
 
 
-print(pi(15,9))
